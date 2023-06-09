@@ -8,6 +8,8 @@ environment:
 dependencies: 
   cupertino_icons: ^1.0.2
   get: 4.6.5
+  shimmer: 3.0.0
+  sliver_tools: 0.2.10
   flutter: 
     sdk: flutter
 
@@ -17,5 +19,8 @@ dev_dependencies:
     sdk: flutter
 
 flutter: 
+  assets: 
+    - assets/images/
+    - assets/models/
   uses-material-design: true
 

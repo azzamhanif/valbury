@@ -1,0 +1,21 @@
+{
+  "name": "data_rumah_sakit",
+  "data": [
+    {
+      "id": "1",
+      "name": "Semua"
+    },
+    {
+      "id": "2",
+      "name": "BPJS"
+    },
+    {
+      "id": "3",
+      "name": "Partner"
+    },
+    {
+      "id": "4",
+      "name": "Terdekat"
+    }
+  ]
+}

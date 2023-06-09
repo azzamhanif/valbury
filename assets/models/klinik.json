@@ -1,0 +1,40 @@
+{
+  "name": "data_rumah_sakit",
+  "data": [
+    {
+      "id": "3172771",
+      "name": "Klinik Cipayung",
+      "address": "Jl. Mini III Jl. Mini I No.4, RT.4/RW.3, Bambu Apus, Kec. Cipayung, Kota Jakarta Timur",
+      "category": "BPJS",
+      "imgUrl": "https://goalkes-images.s3-ap-southeast-1.amazonaws.com/hospitals/0fvmShOj7BX3idS8vNRGAE8AZUKM9SNi87KtM8uz.jpg"
+    },
+    {
+      "id": "3172769",
+      "name": "Klinik Umum  Dr. EUIS",
+      "address": "Jl. H. Naman No.3, RT.13/RW.3, Pd. Klp., Kec. Duren Sawit, Kota Jakarta Timur",
+      "category": "BPJS",
+      "imgUrl": "https://cms.sehatq.com/cdn-cgi/image/f=auto/public/img/hospital_thumb/rsu-dr-euis-HCFH00000376.jpg"
+    },
+    {
+      "id": "3172772",
+      "name": "Klinik Ibu dan Anak Asta Nugraha",
+      "address": "Jl. Duren Sawit Raya (dermaga) No.19, RT.9/RW.11, Klender, Durensawit, East Jakarta City",
+      "category": "BPJS",
+      "imgUrl": "https://mitra.dokterlink.com/storage/uploads/Rumah%20Sakit%20Asta%20Nugraha%20Dokterlink%20Swab%20Antigen%20Covid-19.jpg.jpg"
+    },
+    {
+      "id": "3171800",
+      "name": "Klinik Jati Padang",
+      "address": "Jl. Raya Ragunan No.16, RT.5/RW.11, Ps. Minggu, Kota Jakarta Selatan",
+      "category": "BPJS",
+      "imgUrl": "https://www.garnesia.com/images/vendor/5757_400e14d0862826b3f32ac39c8b13f478.jpg"
+    },
+    {
+      "id": "3173712",
+      "name": "Klinik Umum Yarsi",
+      "address": "Jl. Letjen Suprapto No.Kav 13, RT.10/RW.5, Cemp. Putih Tim., Kec. Cemp. Putih, Kota Jakarta Pusat",
+      "category": "Partner",
+      "imgUrl": "https://res.cloudinary.com/dk0z4ums3/image/upload/w_360,h_240,c_fill,f_auto/v1546913775/hospital_image/slider_utama1.jpg.jpg"
+    }
+  ]
+}
